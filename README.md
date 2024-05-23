@@ -1,6 +1,7 @@
 # Artela Faucet Blockchain Setup
 
-
+![Screenshot](https://github.com/GentlemenValidators/artela-faucet/raw/main/Screenshot_1.png)
+[Visit Artela Faucet](https://artela-faucet.gvalidators.info/)
 
 ## Configuration Files Setup
 
